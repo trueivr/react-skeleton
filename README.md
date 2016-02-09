@@ -1,1 +1,2 @@
 # react-skeleton
+Test only.
